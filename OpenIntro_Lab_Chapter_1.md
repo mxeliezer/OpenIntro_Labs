@@ -7,7 +7,7 @@ This notebook is the first chapter of my personal study book. The general aim is
 
 We will use a data set collected by the **Centers for Disease Control and Prevention** (CDC), called **The Behavioral Risk Factor Surveillance System** (BRFSS). Avaliable from: [BRFSS](http://www.cdc.gov/brfss).
 
-This R Notebooke is organized in the following way: there will always be a question about the dataset, followed by code chunks (R script) and its outputs. For some answers the output will be considered sufficient. For others a short answer will be written.
+This R Notebook is organized in the following way: there will always be a question about the dataset, followed by code chunks (R script) and its outputs. For some answers the output will be considered sufficient. For others a short answer will be written.
 
 We will focus on a random sample of 20,000 people from the **BRFSS** survey conducted in 2000. While there are over 200 variables in this data set, we will work with a small subset. 
 
