@@ -1,7 +1,5 @@
----
-title: "OpenIntro Labs Notebooks"
-output: html_notebook
----
+OpenIntro Labs Notebooks
+========================
 
 This R Notebooks are created from the exercises proposed by OpenIntro Labs. That are part of the study of the book **Introductory Statistics with Randomization and Simulation**. Avaliable from: [ISRS](https://www.openintro.org/book/isrs/).
 
@@ -18,5 +16,7 @@ This work is only aimed at the development of my personal study goals, without a
 Despite this, I hope that it can be useful to those who are treading their path of learning with Rstudio, Data Science or statistics.
 
 _**Eliezer Araujo**_
+
 University of Aveiro
+
 e.araujo@ua.pt
