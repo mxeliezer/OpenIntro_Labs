@@ -9,3 +9,7 @@ Various interfaces will be used depending on each case. We will use:
 3. R notebook, through Google Colab (Jupyter Notebook).
 
 For each shared notebook, sources, references and links to datasets and other documentation will be provided.
+
+## Notebooks ##
+You can access the notebooks directly on Google Colab, through the links below:
+[First Lab](https://colab.research.google.com/drive/1aiDCGu7dwVjKxo8bLEtYAGitslhB-3w_#scrollTo=9msXeTRW5UeX).
