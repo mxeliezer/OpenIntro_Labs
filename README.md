@@ -15,8 +15,3 @@ This work is only aimed at the development of my personal study goals, without a
 
 Despite this, I hope that it can be useful to those who are treading their path of learning with Rstudio, Data Science or statistics.
 
-_**Eliezer Araujo**_
-
-University of Aveiro
-
-e.araujo@ua.pt
